@@ -14,4 +14,5 @@ Os commits são feitos conforme avanço nas aulas, para manter o repositório se
 ---
 
 📚 Curso: [Curso de Django Web Framework e Django Rest Framework (DRF) - Luiz Otávio Miranda] 
+<br>
 👨‍💻 Autor: Luiz Otávio Miranda
