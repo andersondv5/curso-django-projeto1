@@ -1,6 +1,6 @@
 # Estudos - Curso de Django
 
-Este repositório é dedicado aos meus estudos do curso de **Django** do Luiz Otávio Miranda.  
+Este repositório é dedicado aos meus estudos do curso de **Django** do professor Luiz Otávio Miranda.  
 Estou utilizando este espaço para organizar meu aprendizado e fazer commits frequentes com base no que estou estudando.
 
 ## 🧠 Objetivo
